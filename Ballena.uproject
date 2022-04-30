@@ -2,5 +2,9 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor"
+	]
 }

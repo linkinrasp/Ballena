@@ -5,6 +5,9 @@
 	"Description": "",
 	"TargetPlatforms": [
 		"AllDesktop",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"HoloLens",
+		"LinuxNoEditor",
+		"Android"
 	]
 }
